@@ -16,4 +16,4 @@ Thanks to Newt-Web Telescope Design, we are able to view how the telescope may w
 - Eyepiece: The eyepiece magnifies the image produced by the primary mirror. The one we will be using is a 25 mm Plossl eyepiece with a 1.25" aperture. It provides us a magnification of 32x! It has a 52 degree apparent field of view. For $30.95: [https://agenaastro.com/gso-25mm-plossl-eyepiece.html](url).
 
 [CAD]
-We are using Onshape to design the telescope. https://cad.onshape.com/documents/947583d8cc9b64ec4d34047e/w/2b3ea990f9b1bc6be98d422e/e/89a6bf9574a54e25c61e8e6a?renderMode=0&uiState=6702066e9945fd112926d5f5 
+We are using Onshape to design the telescope. [https://cad.onshape.com/documents/947583d8cc9b64ec4d34047e/w/2b3ea990f9b1bc6be98d422e/e/89a6bf9574a54e25c61e8e6a?renderMode=0&uiState=6702066e9945fd112926d5f5 ](https://cad.onshape.com/documents/947583d8cc9b64ec4d34047e/w/2b3ea990f9b1bc6be98d422e/e/89a6bf9574a54e25c61e8e6a?renderMode=0&uiState=670203a39945fd112926d11d)
