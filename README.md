@@ -1,6 +1,7 @@
 # dobsonian 
 
 f/4 8" Mini Dobsonian build: 3D printed PLA prototype 
+
 Why? Building a travel-size Dobsonian provides benefits for astronomers and physicsits, or just anyone, to easily access observation of the solar system. As a first build, this provides easy collaboration and community engagement. The 8" opening is such a versatile size and a great starting point.
 
 
